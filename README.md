@@ -14,7 +14,7 @@ REACT.JS USER DIRECTORY PROJECT :
 
 4. Access the Application:
 
-Open your web browser and navigate to http://localhost:3000 to access the application.
+Open your web browser and navigate to http://localhost:5173 to access the application.
 
 # =============================================================================================
 
