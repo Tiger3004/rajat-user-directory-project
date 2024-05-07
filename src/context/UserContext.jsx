@@ -1,5 +1,3 @@
-// context/UserContext.js
-
 import { createContext, useState } from "react";
 import { usersData } from "../data/Data";
 
